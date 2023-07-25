@@ -1,0 +1,10 @@
+* also-alsa
+
+ALSA bindings for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/varjagg/also-alsa.git   |
+| commit  | 1cc1642  |
+| systems | also-alsa |
+|---------+-------------------------------------------|
+
