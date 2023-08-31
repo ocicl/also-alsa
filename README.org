@@ -4,6 +4,6 @@ ALSA bindings for Common Lisp
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/varjagg/also-alsa.git |
-| commit  | 6008145                                      |
+| commit  | d7e41f5                                      |
 | systems | also-alsa                                    |
 |---------+----------------------------------------------|
